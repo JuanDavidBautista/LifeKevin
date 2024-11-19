@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../imagenes/pexels-pixabay-207529.jpg);
+    background-size: cover;
+}
+
+nav{
+    background-color:  rgb(30, 150, 202);
+    position:relative;
+    z-index: 2;
+}
+ .primero{
+    position:relative;
+    z-index: 2;
+    color: aliceblue;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 20vh;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+    opacity: 0.7;
+    width: 850px;
+    margin-left: 10px;
+}
+
+ .segundo{
+    position:relative;
+    z-index: 2;
+    color: aliceblue;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 20vh;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+    opacity: 0.7;
+    width: 850px;
+    margin-left: 10px;
+}
+
+

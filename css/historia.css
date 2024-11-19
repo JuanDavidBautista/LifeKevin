@@ -1,0 +1,25 @@
+
+nav{
+    background-color:  rgb(30, 150, 202);
+    position:relative;
+    z-index: 2;
+}
+
+.caja1{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 0px 6px 10px 0px black;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.caja2{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 0px 6px 10px 0px black;
+    padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+}

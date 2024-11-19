@@ -1,0 +1,15 @@
+nav{
+    background-color:  rgb(30, 150, 202);
+    position:relative;
+    z-index: 2;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.co{
+    margin-top: 10px;
+}
